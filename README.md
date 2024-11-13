@@ -1,10 +1,10 @@
-# basler_acA4024-29um
+# basler_acA4024_29um
 Python device adaptor: Basler acA4024-29um USB 3.0 camera.
 ## Quick start:
 - Download the Basler GUI (pylon Software, blaze Software), open the "pylon Viewer" and test the camera (the version used here was "pylon 7.4.0 Camera Software Suite Windows").
-- Run 'basler_acA4024-29um.py' to test the camera (requires the 'pypylon' module).
+- Run 'basler_acA4024_29um.py' to test the camera (requires the 'pypylon' module).
 
-![social_preview](https://github.com/amsikking/basler_acA4024-29um/blob/main/social_preview.png)
+![social_preview](https://github.com/amsikking/basler_acA4024_29um/blob/main/social_preview.png)
 
 ## Details
 - Install 'pypylon' with pip "The official python wrapper for the Basler pylon Camera Software Suite" (https://github.com/basler/pypylon). Check out the 'samples' folder for example code on how to do various things.
